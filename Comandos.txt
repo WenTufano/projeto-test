@@ -1,0 +1,31 @@
+Comandos:
+
+//criar repositorio
+git init
+
+//clonagem de repositorio.
+git clone <url>
+
+//adicionar arquivo na stagearea
+git add <arquivo>
+
+//commit com mesnagem
+git commit -m "<sua mensagem>"
+
+//ver commits de cima para baixo
+git log
+
+//mandar commit para repositorio
+git push
+
+//deletar arquivo untracked
+git clean <arquivco>
+
+//ver diferenca do codigo novo para o antigo
+gitk <arquivo>
+
+//passar arquivos para unstage
+git restore --stage <file>
+
+//ver variavel origin
+git remote -v
