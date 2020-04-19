@@ -44,3 +44,5 @@ git checkout -t origin/<branchname>
 
 //excluir branch remotamente
 git push --delete origin <branchname>
+
+teste
