@@ -1,1 +1,8 @@
 Aqui serão listados os desafios do Pablo:
+
+1- Criar uma branch chamada 'desafios' e colocar esse arquivo nela. Após isso excluir esse arquivo dessa branch e deixa-lo apenas na branch desafio.
+2- Criar uma branch com apenas o arquivo pablo-wendell.txt em espanhol. (Deatalhe a branch tem que ter nascido da 'develop')
+3- Criar um arquivo de comandos para linux na branch que mais parecer ideial. (pense) 
+4- Excluir branch 'erro-me-exclui-caramba'.
+
+PS: Seja criativo com os nomes que forá criar para as branchs :))
