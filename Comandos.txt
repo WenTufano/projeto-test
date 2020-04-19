@@ -1,5 +1,11 @@
 Comandos:
 
+Sequencia para subir arquivos:
+
+git add
+git commit -m "mensagem"
+git push
+
 //criar repositorio
 git init
 
@@ -44,5 +50,3 @@ git checkout -t origin/<branchname>
 
 //excluir branch remotamente
 git push --delete origin <branchname>
-
-teste
