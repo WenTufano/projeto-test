@@ -29,3 +29,18 @@ git restore --stage <file>
 
 //ver variavel origin
 git remote -v
+
+//listar branch
+git branch --list ou git branch
+
+//ajuda nos comandos
+git <comando> --help
+
+//ver branchs romote e local
+git branch -a
+
+//baixar branch remote
+git checkout -t origin/<branchname>
+
+//excluir branch remotamente
+git push --delete origin <branchname>
